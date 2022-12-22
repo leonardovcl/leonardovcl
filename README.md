@@ -11,7 +11,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.
 
-[//]: # (Check out my portfolio at [Portfolio_Link]!)
+<!---Check out my portfolio at [Portfolio_Link]!-->
 
 #### More About Me:
 
@@ -25,19 +25,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 - 👯 I’m looking to collaborate on backend software engineering projects
 
-- 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- 🤔 I’m looking for help with ... I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 
-- 💬 Talk to me about freelancing opportunities in data science and software engineering I'm happy to collaborate on any web development or data science project
+- 💬 Ask me about ... Talk to me about freelancing opportunities in data science and software engineering
   
 - :star: Fun fact: I keep night shift swithed on at all times
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 📫 How to reach me:
@@ -47,7 +40,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 [![Github Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardovcl)
 <!---[![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](#)--->
 
-## :toolbox: Skills
+## :hammer_and_wrench: Skills
 
 ![Java](https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite)
 &nbsp;
