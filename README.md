@@ -13,25 +13,25 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <!---Check out my portfolio at [Portfolio_Link]!-->
 
-#### More About Me:
+#### :clipboard: More About Me:
 
-- 🔭 I’m currently working on :chocolate_bar: [Sweet Control](https://github.com/leonardovcl/sweet-control)
+- 🔭 I’m currently working on :chocolate_bar: **[Sweet Control](https://github.com/leonardovcl/sweet-control)**
 
-- 🌱 I’m currently learning **Java, Spring, Python**
+- 🌱 I’m currently learning **Design Patterns with Java**
 
-- 🎓 Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>
+- 👯  I'm happy to collaborate on web development or data science projects
 
-- 💼 I'm a Data Scientist at Dubai Holding Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 🎓 **PhD** candidate @ [UNICAMP](https://www.unicamp.br/unicamp/english)
 
-- 👯 I’m looking to collaborate on backend software engineering projects
+- 💼 **Computational Chemistry** researcher @ [UNICAMP](https://www.unicamp.br/unicamp/english)
 
-- 🤔 I’m looking for help with ... I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- 💬 I’m currently open for a new `job opportunity` as a backend developer <!---, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)-->
 
-- 💬 Ask me about ... Talk to me about freelancing opportunities in data science and software engineering
-  
-- :star: Fun fact: I keep night shift swithed on at all times
+- ⚡ Fun fact: I'm still a Tibia :pick: MMORPG player
 
-- ⚡ Fun fact: ...
+:star: Check out those repos:
+
+- :chocolate_bar: [Sweet Control](https://github.com/leonardovcl/sweet-control)
 
 📫 How to reach me:
 
