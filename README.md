@@ -1,33 +1,31 @@
 ## Hey 👋, I'm Leonardo Viana! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=leonardovcl&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Followers]( https://img.shields.io/github/followers/leonardovcl?label=follow&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/leonardovcl?label=follow&style=social)
 
 ### Glad to see you here!
 
-> Faça uma breve aprensentação sobre você e a sua área.
+I’m a **backend** developer with focus on **web** development, working mainly with **Java** and **Spring Framework**.
 
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.
+I also have a background in scientific research, with a Master's degree in Computational Chemistry and an ongoing PhD in the same field. Those experiences brought me to the programing world through Perl, Julia, and mainly Python!
 
 <!---Check out my portfolio at [Portfolio_Link]!-->
 
 #### :clipboard: More About Me:
 
-- 🔭 I’m currently working on :chocolate_bar: **[Sweet Control](https://github.com/leonardovcl/sweet-control)**
+- 🔭 I’m currently working on :chocolate_bar: **[Sweet Control](https://github.com/leonardovcl/sweet-control)**.
 
-- 🌱 I’m currently learning **Design Patterns with Java**
+- 🌱 I’m currently learning **Design Patterns with Java**.
 
-- 👯  I'm happy to collaborate on web development or data science projects
+- 👯  I'm happy to collaborate on web development or data science projects.
 
-- 🎓 **PhD** candidate @ [UNICAMP](https://www.unicamp.br/unicamp/english)
+- 🎓 **PhD** candidate at [Unicamp](https://www.unicamp.br/unicamp/english).
 
-- 💼 **Computational Chemistry** researcher @ [UNICAMP](https://www.unicamp.br/unicamp/english)
+- 💼 **Computational Chemistry** researcher at [Unicamp](https://www.unicamp.br/unicamp/english).
 
-- 💬 I’m currently open for a new `job opportunity` as a backend developer <!---, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)-->
+- 💬 I’m currently open for a new `job opportunity` as a `backend developer`. <!---, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)-->
 
-- ⚡ Fun fact: I'm still a Tibia :pick: MMORPG player
+- ⚡ Fun fact: I'm still a Tibia :pick: MMORPG player.
 
 :star: Check out those repos:
 
