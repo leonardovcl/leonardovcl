@@ -35,7 +35,7 @@ I also have a background in scientific research, with a Master's degree in Compu
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardovcl)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardovc.lima@gmail.com "leonardovc.lima@gmail.com")
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardovcl)
+<!---[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonardovcl)--->
 <!---[![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](#)--->
 
 ## :hammer_and_wrench: Skills
@@ -64,4 +64,4 @@ I also have a background in scientific research, with a Master's degree in Compu
 ## :chart_with_upwards_trend: GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=leonardovcl&show_icons=true&theme=dracula&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovcl&show_icons=true&theme=dracula&count_private=true&hide_langs_below=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovcl&show_icons=true&theme=dracula&count_private=true)
