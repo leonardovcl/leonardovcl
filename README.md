@@ -64,4 +64,4 @@ I also have a background in scientific research, with a Master's degree in Compu
 ## :chart_with_upwards_trend: GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=leonardovcl&show_icons=true&theme=dracula&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovcl&show_icons=true&theme=dracula&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovcl&show_icons=true&theme=dracula&count_private=true&layout=compact)
