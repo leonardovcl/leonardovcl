@@ -23,7 +23,11 @@ I also have a background in scientific research, with a Master's degree in Compu
 
 - 💼 **Computational Chemistry** researcher at [Unicamp](https://www.unicamp.br/unicamp/english).
 
-- 💬 I’m currently open for a new `job opportunity` as a `backend developer`. <!---, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)-->
+- 💼 Java **Backend Developer** at [RP Info Sistemas](https://www.rpinfo.com.br/).
+
+- 💬 Ask me about Java, Spring Framework, Python and Scientific Research.
+
+<!--- - 💬 I’m currently open for a new `job opportunity` as a `backend developer`.---> <!---, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)--->
 
 - ⚡ Fun fact: I'm still a Tibia :pick: MMORPG player.
 
@@ -49,6 +53,7 @@ I also have a background in scientific research, with a Master's degree in Compu
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -59,6 +64,7 @@ I also have a background in scientific research, with a Master's degree in Compu
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ## :chart_with_upwards_trend: GitHub Stats
