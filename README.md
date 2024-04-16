@@ -35,6 +35,10 @@ I also have a background in scientific research, with a Master's degree in Compu
 
 - :chocolate_bar: [Sweet Control](https://github.com/leonardovcl/sweet-control)
 
+:white_check_mark: Open Source Contributions:
+
+- Spring Security: [Fix typo in Authorization Events' Doc Page](https://github.com/spring-projects/spring-security/pull/14330)
+
 📫 How to reach me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardovcl)
