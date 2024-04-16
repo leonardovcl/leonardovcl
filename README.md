@@ -13,7 +13,7 @@ I also have a background in scientific research, with a Master's degree in Compu
 
 #### :clipboard: More About Me:
 
-- 🔭 I’m currently working on :chocolate_bar: **[Sweet Control](https://github.com/leonardovcl/sweet-control)**.
+<!--- - 🔭 I’m currently working on :chocolate_bar: **[Sweet Control](https://github.com/leonardovcl/sweet-control)**. -->
 
 - 🌱 I’m currently learning **Design Patterns with Java**.
 
@@ -27,7 +27,7 @@ I also have a background in scientific research, with a Master's degree in Compu
 
 - 💬 Ask me about Java, Spring Framework, Python and Scientific Research.
 
-<!--- - 💬 I’m currently open for a new `job opportunity` as a `backend developer`.---> <!---, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)--->
+- 💬 I’m currently open for a new `job opportunity` as a `backend developer`. <!---, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)--->
 
 - ⚡ Fun fact: I'm still a Tibia :pick: MMORPG player.
 
@@ -50,6 +50,8 @@ I also have a background in scientific research, with a Master's degree in Compu
 ![SpringBoot](	https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![SpringSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 &nbsp;
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+&nbsp;
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -66,6 +68,9 @@ I also have a background in scientific research, with a Master's degree in Compu
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## :chart_with_upwards_trend: GitHub Stats
 
