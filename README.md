@@ -27,7 +27,8 @@ I also have a background in scientific research, with a Master's degree in Compu
 
 - 💬 Ask me about Java, Spring Framework, Python and Scientific Research.
 
-- 💬 I’m currently open for a new `job opportunity` as a `backend developer`. <!---, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)--->
+- 💬 I’m currently open for a new `job opportunity` as a `backend developer`.
+<!---, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume)--->
 
 - ⚡ Fun fact: I'm still a Tibia :pick: MMORPG player.
 
