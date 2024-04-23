@@ -15,7 +15,7 @@ I also have a background in scientific research, with a Master's degree in Compu
 
 <!--- - 🔭 I’m currently working on :chocolate_bar: **[Sweet Control](https://github.com/leonardovcl/sweet-control)**. -->
 
-- 🌱 I’m currently learning **Design Patterns with Java**.
+- 🌱 I’m currently learning **Amazon Web Services (AWS)**.
 
 - 👯  I'm happy to collaborate on web development or data science projects.
 
